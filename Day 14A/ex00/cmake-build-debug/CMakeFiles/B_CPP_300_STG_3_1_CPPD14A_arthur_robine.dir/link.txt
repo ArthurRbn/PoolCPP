@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/B_CPP_300_STG_3_1_CPPD14A_arthur_robine.dir/Errors.cpp.o  -o B_CPP_300_STG_3_1_CPPD14A_arthur_robine 

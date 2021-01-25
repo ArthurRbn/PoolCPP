@@ -1,0 +1,7 @@
+BaseComponent.hpp
+a.out
+*.o
+CMakeLists.txt
+cmake-build-debug
+RoverUnit
+RoverUnitTests.cpp

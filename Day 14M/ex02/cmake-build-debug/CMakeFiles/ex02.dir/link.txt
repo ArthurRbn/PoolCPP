@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ex02.dir/Fruit.cpp.o CMakeFiles/ex02.dir/Lemon.cpp.o CMakeFiles/ex02.dir/Banana.cpp.o CMakeFiles/ex02.dir/FruitBox.cpp.o CMakeFiles/ex02.dir/main.cpp.o CMakeFiles/ex02.dir/LittleHand.cpp.o CMakeFiles/ex02.dir/Lime.cpp.o CMakeFiles/ex02.dir/Coconut.cpp.o  -o ex02 
