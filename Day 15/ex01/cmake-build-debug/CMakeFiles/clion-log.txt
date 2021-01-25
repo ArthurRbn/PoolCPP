@@ -1,4 +1,0 @@
-/home/arthur/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/arthur/Epitech/tek2/PoolCPP/B-CPP-300-STG-3-1-CPPD15-arthur.robine/ex01
--- Configuring done
--- Generating done
--- Build files have been written to: /home/arthur/Epitech/tek2/PoolCPP/B-CPP-300-STG-3-1-CPPD15-arthur.robine/ex01/cmake-build-debug

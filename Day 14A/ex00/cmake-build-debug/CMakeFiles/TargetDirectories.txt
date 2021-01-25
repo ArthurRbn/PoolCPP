@@ -1,3 +1,0 @@
-/home/arthur/Epitech/tek2/PoolCPP/B-CPP-300-STG-3-1-CPPD14A-arthur.robine/ex00/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/arthur/Epitech/tek2/PoolCPP/B-CPP-300-STG-3-1-CPPD14A-arthur.robine/ex00/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/arthur/Epitech/tek2/PoolCPP/B-CPP-300-STG-3-1-CPPD14A-arthur.robine/ex00/cmake-build-debug/CMakeFiles/B_CPP_300_STG_3_1_CPPD14A_arthur_robine.dir
